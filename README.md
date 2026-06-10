@@ -1,6 +1,6 @@
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Rayyan%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=AI%20Engineer%20|%20Flutter%20Developer%20|%20Full%20Stack%20Developer&descAlignY=60"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=250&section=header&text=Rayyan%20&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=GenAI%20Engineer%20|%20Application%20Developer&descAlignY=60"/>
 </p>
 
 <h1 align="center">Hi 👋, I'm Rayyan</h1>
@@ -182,12 +182,6 @@ Real-time fleet management solution:
 
 🏅 Finalist — Bajaj HackRx 6.0
 
-📄 Published Research Paper
-
-**Student Advisor AI: A Cloud-Based Academic Performance Prediction and Intervention System**
-
-🎓 CGPA: 8.88 / 10
-
 ---
 
 # 📊 GitHub Statistics
@@ -214,14 +208,6 @@ Real-time fleet management solution:
 
 <p align="center">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=rayyan-10&theme=tokyo-night"/>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=rayyan-10&theme=tokyonight&row=2&column=4"/>
 </p>
 
 ---
@@ -264,16 +250,6 @@ while(alive):
 ````
 
 💡 "Turning AI ideas into real-world applications."
-
----
-
-# 🐍 Contribution Snake
-
-> Enable GitHub Actions and add the snake workflow later.
-
-<p align="center">
-<img src="https://raw.githubusercontent.com/rayyan-10/rayyan-10/output/github-contribution-grid-snake.svg"/>
-</p>
 
 ---
 
