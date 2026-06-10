@@ -6,7 +6,7 @@
 <h1 align="center">Hi 👋, I'm Rayyan</h1>
 
 <h3 align="center">
-🚀 AI Engineer | Flutter Developer | Full Stack Developer
+🚀 Full Stack App Developer | GenAI Engineer
 </h3>
 
 <p align="center">
@@ -109,6 +109,28 @@ Build impactful AI solutions that solve real-world problems.
 
 # 🚀 Featured Projects
 
+### 🌐 REDWOLF MEDIA
+
+AR Visualization Platform
+
+- GLB Model Support
+- USDZ Support
+- Admin Dashboard
+- Cross-Platform Deployment
+
+---
+
+### 🗣️ SPEAKSI
+
+AI Speech Therapy Platform
+
+- Pronunciation Correction
+- Real-time Feedback
+- ASR Integration
+- Adaptive Learning
+
+---
+
 ### 👕 Fashion AI Recommendation & Virtual Try-On
 
 AI-powered virtual try-on platform using:
@@ -149,28 +171,6 @@ Real-time fleet management solution:
 - Route Optimization
 - Predictive Maintenance
 - Driver Analytics
-
----
-
-### 🌐 REDWOLF MEDIA
-
-AR Visualization Platform
-
-- GLB Model Support
-- USDZ Support
-- Admin Dashboard
-- Cross-Platform Deployment
-
----
-
-### 🗣️ SPEAKSI
-
-AI Speech Therapy Platform
-
-- Pronunciation Correction
-- Real-time Feedback
-- ASR Integration
-- Adaptive Learning
 
 ---
 
